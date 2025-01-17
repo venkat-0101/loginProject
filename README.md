@@ -1,4 +1,5 @@
 # loginProject
+Author: Balaji Vengadesh
 This is just a sample project to learn about the database operations 
 Technologies used:
 Front-end: Jsp, Servlet
