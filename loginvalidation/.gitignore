@@ -1,0 +1,19 @@
+#classpath file
+.classpath
+
+#.project file
+.project
+
+#any file from the settings folder
+.settings/
+
+#any file from the target folder
+target/
+
+#pom.xml
+pom.xml
+
+#web-inf
+WEB-INF
+
+
